@@ -1,0 +1,10 @@
+D:\LotusOdonto\Bop\AutomationService\AutomationService\bin\Debug\AutomationService.exe.config
+D:\LotusOdonto\Bop\AutomationService\AutomationService\bin\Debug\AutomationService.exe
+D:\LotusOdonto\Bop\AutomationService\AutomationService\bin\Debug\AutomationService.pdb
+D:\LotusOdonto\Bop\AutomationService\AutomationService\obj\Debug\AutomationService.csprojResolveAssemblyReference.cache
+D:\LotusOdonto\Bop\AutomationService\AutomationService\obj\Debug\AutomationService.exe
+D:\LotusOdonto\Bop\AutomationService\AutomationService\obj\Debug\AutomationService.pdb
+D:\LotusOdonto\Bop\AutomationService\AutomationService\bin\Debug\EntityFramework.dll
+D:\LotusOdonto\Bop\AutomationService\AutomationService\bin\Debug\EntityFramework.SqlServer.dll
+D:\LotusOdonto\Bop\AutomationService\AutomationService\bin\Debug\EntityFramework.xml
+D:\LotusOdonto\Bop\AutomationService\AutomationService\bin\Debug\EntityFramework.SqlServer.xml
